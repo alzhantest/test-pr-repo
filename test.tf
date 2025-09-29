@@ -6,6 +6,9 @@ region="eu-west1"
 
 }
 
+
+
+
 resource "google_storage_bucket" "mm-network-prod" {
 
 name="mm-network-prod"
