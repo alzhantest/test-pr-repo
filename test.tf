@@ -6,9 +6,7 @@ region="eu-west1"
 
 }
 
-
-
-
+#test-new-pr-test-for-94350
 
 resource "google_storage_bucket" "mm-network-prod" {
 
