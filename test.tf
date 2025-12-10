@@ -7,6 +7,8 @@ region="eu-west1"
 }
 
 #test-new-pr-test-for-94350
+#test-new-pr-test-for-94350
+#test-new-pr-test-for-94350
 
 #enabled public repo PR scans
 
