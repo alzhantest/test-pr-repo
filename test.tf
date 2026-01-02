@@ -9,4 +9,8 @@ resource "google_storage_bucket" "mm-network-prod" {
 
   uniform_bucket_level_access = true
   public_access_prevention   = "enforced"
+
+  versioning {
+    enabled = true
+  }
 }
