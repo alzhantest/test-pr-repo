@@ -14,5 +14,4 @@ resource "google_storage_bucket" "mm-network-prod" {
     enabled = true
   }
 }
-test pr checks
-testtest
+PR comment check
