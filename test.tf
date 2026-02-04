@@ -15,3 +15,4 @@ resource "google_storage_bucket" "mm-network-prod" {
   }
 }
 PR comment check
+Test with enabled PR comment
