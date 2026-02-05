@@ -7,10 +7,9 @@ resource "google_storage_bucket" "mm-network-prod" {
   name     = "mm-network-prod"
   location = "EU"
 
-  uniform_bucket_level_access = true
-  public_access_prevention   = "enforced"
-
   versioning {
     enabled = true
   }
 }
+TEeeeeeeest-3
+Test with enabled PR comment-3
