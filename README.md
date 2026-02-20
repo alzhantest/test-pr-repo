@@ -1,1 +1,1 @@
-# test-pr-repo
+# Test PR for Wiz Scan
